@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+:root{
+	--menu-hover:#cd9b33;
+	--color-general:#666;
+	--color-titulos:#000;
+	--fondo-footer:#22202e;
+	--color-footer:#CCC;
+}
+body{
+	font-size: 14px;
+	background-color: #FFFFFF;
+	font-family: "Lora", serif;
+}
+header{
+	background-color: #fff;
+	padding: 5px 0;
+	box-shadow: 0px 0px 5px 10px #f2f2f2;
+}
+footer #copyright{
+	background-color: #000;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+h1{
+	font-family: "Kaushan Script", cursive;
+}
+.btn{
+	align-content: center;
+	margin-left: 45;
+	border-radius: 20px;
+	background-color: #FFFFFF;
+	border-color: #CD9B33;
+}
+#deliceux{
+	padding: 10;
+	text-align: center;
+	
+}
+#hero slides{
+	padding: 15px;
+	margin-right: auto;
+}
+#footer{
+	background-color:#22202E;
+}
+
+#footer h6 p{
+	color:#FFFFFF;
+}
